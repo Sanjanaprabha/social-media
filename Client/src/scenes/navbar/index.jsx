@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Toodle
+          MySocial
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
