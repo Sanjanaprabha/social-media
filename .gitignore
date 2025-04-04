@@ -3,3 +3,4 @@ server/.env.local
 
 Client/.env
 Client/.env.local
+.vercel
